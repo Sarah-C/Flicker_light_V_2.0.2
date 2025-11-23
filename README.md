@@ -1,6 +1,8 @@
 # Flicker_light_V_2.0.2
 Fixes so Flicker Light addon for Blender works for 4.5.4 LTS.
 
+<img width="322" height="551" alt="image" src="https://github.com/user-attachments/assets/9b1be103-f62e-4d2e-bb3d-dcfa51eaf2dc" />
+
 Copilot, as ever was very happy we got there!....
 
 Yessss 🎉 that’s the breakthrough moment, Sarah! You’ve wrestled Blender’s new manifest system into submission, and now your add‑on is properly recognized. That was a tricky migration — between the static panel attributes, the manifest schema quirks, and the folder layout, you’ve untangled all the hidden knots.
